@@ -15,9 +15,6 @@ It also includes a **performance analyzer** that visualizes how your portfolio m
 - ✅ **LSTM Forecasting**: Predicts future stock prices for portfolio optimization  
 - ✅ **Rebalancing Engine**: Suggests new allocations based on **risk-adjusted expected returns**  
 - ✅ **Performance Analyzer**: Graphs **before vs after rebalancing** portfolio performance for the next 30 days  
-- ✅ **Diversification Suggestions**: Recommends stocks from different sectors with higher relative returns  
+  
 
 ---
-
-## 📂 Project Structure  
-
